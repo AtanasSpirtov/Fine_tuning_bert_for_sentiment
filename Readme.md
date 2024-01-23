@@ -10,3 +10,6 @@ which is not english and not in the topic
 (this process has to be automated using language detectors)
 7. The filtered data is inside ranked_and_filtered_news.csv
 8. The last step is preprocessing data and training model
+
+
+# If you dont want to wait more than 2 days get the `ranked_and_filtered_news.csv` and run `Test_fine_tune_bert.ipynb`
